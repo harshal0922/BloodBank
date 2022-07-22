@@ -29,4 +29,4 @@ Blood Bank is a php based web project with both admin and user layouts.
    
    Enter Below Credentials to login to the Admin Panel.<br>
    <b> Username = </b> harshal001<br>
-   <b>Password = </b> HakunaMatata
+   <b>Password = </b> 934
